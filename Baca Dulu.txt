@@ -1,0 +1,18 @@
+/*
+-- ---------------------------------------------------------------
+-- MARKETPLACE MULTI BUYER MULTI SELLER + SUPPORT RESELLER SYSTEM
+-- CREATED BY : ROBBY PRIHANDAYA
+-- COPYRIGHT  : Copyright (c) 2018 - 2019, PHPMU.COM. (https://phpmu.com/)
+-- LICENSE    : http://opensource.org/licenses/MIT  MIT License
+-- CREATED ON : 2019-03-26
+-- UPDATED ON : 2019-03-27
+-- ---------------------------------------------------------------
+*/
+=================================================================================================================
+Jika anda menemukan kendala dalam Menggunakan CMS Swarakalibata Marketplace ini maka jangan sungkan-sungkan 
+untuk bertanya Melalui Forum Khusus kita sediakan untuk Para sobat yang ingin mendalami pemrograman web. salam,..
+=================================================================================================================
+Web Utama : https://phpmu.com
+Forum 	  : https://members.phpmu.com
+Email     : robby.prihandaya@gmail.com
+No Telp   : 081267771344
